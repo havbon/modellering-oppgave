@@ -1,0 +1,300 @@
+{
+    "1955": {
+        "Thunderstorm Wind": 3
+    },
+    "1956": {
+        "Thunderstorm Wind": 9
+    },
+    "1957": {
+        "Thunderstorm Wind": 9
+    },
+    "1958": {
+        "Thunderstorm Wind": 17
+    },
+    "1959": {
+        "Thunderstorm Wind": 6
+    },
+    "1960": {
+        "Thunderstorm Wind": 18
+    },
+    "1961": {
+        "Thunderstorm Wind": 10
+    },
+    "1962": {
+        "Thunderstorm Wind": 25
+    },
+    "1963": {
+        "Thunderstorm Wind": 20
+    },
+    "1964": {
+        "Thunderstorm Wind": 22
+    },
+    "1965": {
+        "Thunderstorm Wind": 37
+    },
+    "1966": {
+        "Thunderstorm Wind": 28
+    },
+    "1967": {
+        "Thunderstorm Wind": 20
+    },
+    "1968": {
+        "Thunderstorm Wind": 25
+    },
+    "1969": {
+        "Thunderstorm Wind": 20
+    },
+    "1970": {
+        "Thunderstorm Wind": 30
+    },
+    "1971": {
+        "Thunderstorm Wind": 22
+    },
+    "1972": {
+        "Thunderstorm Wind": 23
+    },
+    "1973": {
+        "Thunderstorm Wind": 22
+    },
+    "1974": {
+        "Thunderstorm Wind": 27
+    },
+    "1975": {
+        "Thunderstorm Wind": 36
+    },
+    "1976": {
+        "Thunderstorm Wind": 36
+    },
+    "1977": {
+        "Thunderstorm Wind": 37
+    },
+    "1978": {
+        "Thunderstorm Wind": 27
+    },
+    "1979": {
+        "Thunderstorm Wind": 46
+    },
+    "1980": {
+        "Thunderstorm Wind": 79
+    },
+    "1981": {
+        "Thunderstorm Wind": 44
+    },
+    "1982": {
+        "Thunderstorm Wind": 47
+    },
+    "1983": {
+        "Thunderstorm Wind": 62
+    },
+    "1984": {
+        "Thunderstorm Wind": 62
+    },
+    "1985": {
+        "Thunderstorm Wind": 54
+    },
+    "1986": {
+        "Thunderstorm Wind": 61
+    },
+    "1987": {
+        "Thunderstorm Wind": 66
+    },
+    "1988": {
+        "Thunderstorm Wind": 93
+    },
+    "1989": {
+        "Thunderstorm Wind": 96
+    },
+    "1990": {
+        "Thunderstorm Wind": 80
+    },
+    "1991": {
+        "Thunderstorm Wind": 79
+    },
+    "1992": {
+        "Thunderstorm Wind": 88
+    },
+    "1993": {
+        "Thunderstorm Wind": 69
+    },
+    "1994": {
+        "Thunderstorm Wind": 161
+    },
+    "1996": {
+        "High Wind": 146,
+        "Thunderstorm Wind": 381,
+        "Winter Storm": 5,
+        "Heavy Snow": 1,
+        "Tornado": 1,
+        "Strong Wind": 1,
+        "Tropical Storm": 2
+    },
+    "1997": {
+        "Thunderstorm Wind": 377,
+        "High Wind": 91,
+        "Blizzard": 1,
+        "Tornado": 1
+    },
+    "1998": {
+        "High Wind": 103,
+        "Thunderstorm Wind": 525,
+        "Tornado": 3,
+        "Seiche": 1
+    },
+    "1999": {
+        "Thunderstorm Wind": 369,
+        "High Wind": 163,
+        "Heavy Snow": 1,
+        "Tornado": 1
+    },
+    "2000": {
+        "Thunderstorm Wind": 460,
+        "High Wind": 134
+    },
+    "2001": {
+        "Thunderstorm Wind": 594,
+        "High Wind": 87,
+        "Marine Thunderstorm Wind": 1
+    },
+    "2002": {
+        "Thunderstorm Wind": 593,
+        "High Wind": 107,
+        "Wildfire": 1,
+        "Strong Wind": 1,
+        "Marine Thunderstorm Wind": 10
+    },
+    "2003": {
+        "Thunderstorm Wind": 774,
+        "High Wind": 96,
+        "Strong Wind": 41,
+        "Marine Thunderstorm Wind": 18
+    },
+    "2004": {
+        "Thunderstorm Wind": 800,
+        "High Wind": 114,
+        "Strong Wind": 40,
+        "Heavy Rain": 2,
+        "Marine Thunderstorm Wind": 16
+    },
+    "2005": {
+        "High Wind": 105,
+        "Thunderstorm Wind": 904,
+        "Strong Wind": 35,
+        "Marine Thunderstorm Wind": 13,
+        "Heavy Rain": 1
+    },
+    "2006": {
+        "High Wind": 130,
+        "Strong Wind": 57,
+        "Thunderstorm Wind": 856,
+        "Marine High Wind": 1,
+        "Marine Thunderstorm Wind": 4
+    },
+    "2007": {
+        "Thunderstorm Wind": 914,
+        "Marine Thunderstorm Wind": 3,
+        "High Wind": 97,
+        "Strong Wind": 45
+    },
+    "2008": {
+        "Thunderstorm Wind": 1120,
+        "High Wind": 202,
+        "Strong Wind": 78,
+        "Marine Thunderstorm Wind": 2
+    },
+    "2009": {
+        "High Wind": 165,
+        "Thunderstorm Wind": 941,
+        "Strong Wind": 62,
+        "Marine Thunderstorm Wind": 7
+    },
+    "2010": {
+        "Thunderstorm Wind": 1031,
+        "High Wind": 124,
+        "Strong Wind": 53,
+        "Marine Thunderstorm Wind": 2
+    },
+    "2011": {
+        "Thunderstorm Wind": 1410,
+        "High Wind": 106,
+        "Strong Wind": 61,
+        "Marine Thunderstorm Wind": 19
+    },
+    "2012": {
+        "Thunderstorm Wind": 1075,
+        "High Wind": 134,
+        "Strong Wind": 54,
+        "Marine High Wind": 3,
+        "Marine Thunderstorm Wind": 28,
+        "Marine Strong Wind": 1
+    },
+    "2013": {
+        "Thunderstorm Wind": 997,
+        "High Wind": 63,
+        "Marine Thunderstorm Wind": 38,
+        "Strong Wind": 37
+    },
+    "2014": {
+        "Thunderstorm Wind": 961,
+        "Marine Thunderstorm Wind": 39,
+        "High Wind": 105,
+        "Strong Wind": 44
+    },
+    "2015": {
+        "Thunderstorm Wind": 975,
+        "High Wind": 64,
+        "Marine Thunderstorm Wind": 12,
+        "Strong Wind": 30
+    },
+    "2016": {
+        "Thunderstorm Wind": 1072,
+        "Strong Wind": 47,
+        "High Wind": 99,
+        "Marine Thunderstorm Wind": 16
+    },
+    "2017": {
+        "Thunderstorm Wind": 1162,
+        "High Wind": 72,
+        "Strong Wind": 77,
+        "Marine Thunderstorm Wind": 11
+    },
+    "2018": {
+        "Thunderstorm Wind": 1071,
+        "High Wind": 111,
+        "Strong Wind": 59,
+        "Marine Thunderstorm Wind": 27
+    },
+    "2019": {
+        "Thunderstorm Wind": 1261,
+        "High Wind": 161,
+        "Marine Thunderstorm Wind": 29,
+        "Strong Wind": 72,
+        "Marine High Wind": 1
+    },
+    "2020": {
+        "Thunderstorm Wind": 1367,
+        "High Wind": 155,
+        "Strong Wind": 67,
+        "Marine Thunderstorm Wind": 33,
+        "Marine Strong Wind": 1
+    },
+    "2021": {
+        "Thunderstorm Wind": 1161,
+        "High Wind": 165,
+        "Strong Wind": 42,
+        "Marine Strong Wind": 1,
+        "Marine Thunderstorm Wind": 31
+    },
+    "2022": {
+        "High Wind": 195,
+        "Thunderstorm Wind": 1190,
+        "Marine Thunderstorm Wind": 16,
+        "Strong Wind": 57
+    },
+    "2023": {
+        "Thunderstorm Wind": 1464,
+        "Marine Thunderstorm Wind": 28,
+        "Strong Wind": 60,
+        "High Wind": 117,
+        "Marine High Wind": 1
+    }
+}
